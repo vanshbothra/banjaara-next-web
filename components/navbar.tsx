@@ -1,7 +1,8 @@
 'use client'
 
-import {Navbar, NavbarBrand, NavbarMenuToggle, NavbarMenu, NavbarMenuItem, NavbarContent, NavbarItem, Link, Button} from "@nextui-org/react";
+import {Navbar, NavbarBrand, NavbarMenuToggle, NavbarMenu, NavbarMenuItem, NavbarContent, NavbarItem, Button} from "@nextui-org/react";
 import React, {useState, useEffect} from "react";
+import Link from 'next/link'
 
 const menuItems = [
   "Home",
@@ -31,12 +32,12 @@ const NavbarComponent = () => {
       </NavbarBrand>
       <NavbarContent className="hidden sm:flex gap-6" justify="center">
         <NavbarItem isActive>
-          <Link color="secondary" href="#">
+          <Link color="secondary" href="/">
             Home
           </Link>
         </NavbarItem>
         <NavbarItem>
-          <Link color="foreground" href="#" aria-current="page">
+          <Link color="foreground" href="/competitions" aria-current="page">
             Competitions
           </Link>
         </NavbarItem>
@@ -55,7 +56,7 @@ const NavbarComponent = () => {
         </NavbarItem>
       </NavbarContent>
 
-      <NavbarMenu className="dark">
+      {/* <NavbarMenu className="dark">
         {menuItems.map((item, index) => (
           <NavbarMenuItem key={`${item}-${index}`}>
             <Link
@@ -70,7 +71,7 @@ const NavbarComponent = () => {
             </Link>
           </NavbarMenuItem>
         ))}
-      </NavbarMenu>
+      </NavbarMenu> */}
     </Navbar>
   )
 }
