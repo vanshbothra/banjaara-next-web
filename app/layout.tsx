@@ -1,11 +1,14 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Bebas_Neue } from "next/font/google";
 import "./globals.css";
-import Navbar from "@/components/navbar";
+import Navbar from '@/components/navbar'
 import Image from "next/image";
 import Providers from "./provider";
 
-const inter = Inter({ subsets: ["latin"] });
+const bebas_neue = Bebas_Neue({
+  subsets: ["latin"],
+  weight: '400'
+});
 
 export const metadata: Metadata = {
   title: "Banjaara 2024",
@@ -19,12 +22,12 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${inter.className}`}>
+      <body className={`${bebas_neue.className}`}>
         <Providers>
           <div className="z-1 fixed w-full h-full brightness-50 bg-auto m-0">
             <Image src='/galaxy-bg.png' alt="Galaxy" fill={true} className="blur-lg overflow-hidden" />
           </div>
-          <Navbar />
+          <Navbar/>
           {children}
         </Providers>
       </body>
