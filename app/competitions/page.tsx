@@ -135,11 +135,12 @@ const Competitions = () => {
                       width: '300px', backgroundColor: 'transparent', padding: 6, height: '425px'
                     }}
                   >
-                    <CardBody className=" overflow-hidden p-1"
-                    style={{
-                      width: '100%', minHeight: '160px'
-                    }}>
-                      <Card className=" my-auto items-end"
+                    <CardBody className=" p-4"
+                    >
+                      <Card className=" my-auto items-end" 
+                      style={{
+                        height: '180px',  objectFit: 'contain'
+                     }}
                          >
 
                         <Chip variant='bordered' className="absolute z-10 p-2 m-2"
@@ -148,8 +149,13 @@ const Competitions = () => {
                           }}
                         >{content.date}</Chip>
                         <Image
+                        
                           isBlurred
-                          className="z-0 w-full object-contain rounded"
+                          className="z-0 w-full object-cover rounded"
+                          style={{
+                            height: '100%',
+                            width: '100%'
+                          }}
                           alt="Card background"
                           removeWrapper
                           src={content.image} />
