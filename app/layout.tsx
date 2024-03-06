@@ -1,14 +1,14 @@
 import type { Metadata } from "next";
-import { Bebas_Neue } from "next/font/google";
 import "./globals.css";
-import Navbar from '@/components/navbar'
+import NavbarComponent from '@/components/navbar'
 import Image from "next/image";
 import Providers from "./provider";
+import { Poppins} from "next/font/google";
 
-const bebas_neue = Bebas_Neue({
+const poppins = Poppins({
   subsets: ["latin"],
-  weight: '400'
-});
+  weight: '300'
+})
 
 export const metadata: Metadata = {
   title: "Banjaara 2024",
@@ -22,12 +22,12 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${bebas_neue.className}`}>
+      <body className={`${poppins.className}`}>
         <Providers>
           <div className="z-1 fixed w-full h-full brightness-50 bg-auto m-0">
             <Image src='/galaxy-bg.png' alt="Galaxy" fill={true} className="blur-lg overflow-hidden" />
           </div>
-          <Navbar/>
+          <NavbarComponent/>
           {children}
         </Providers>
       </body>

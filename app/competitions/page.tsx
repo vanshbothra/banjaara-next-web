@@ -1,6 +1,18 @@
 'use client'
 import React from "react";
+import { Poppins} from "next/font/google";
+import { Bebas_Neue } from "next/font/google";
 import { Tabs, Tab, Card, CardBody, CardHeader, Image, Textarea, Divider, Button, Link, Chip } from "@nextui-org/react";
+
+const poppins = Poppins({
+  subsets: ["latin"],
+  weight: '300'
+})
+
+const bebas_neue = Bebas_Neue({
+  subsets: ["latin"],
+  weight: '400'
+});
 
 const Competitions = () => {
   let tabs = [
@@ -113,7 +125,7 @@ const Competitions = () => {
           height: '100%'
         }}>
           <CardHeader className="absolute z-10 h-2/5 justify-center">
-            <p className="text-white font-medium text-8xl">Competitions</p>
+            <p className={`${bebas_neue.className} text-white font-medium text-8xl`}>Competitions</p>
           </CardHeader>
           <Image
             style={{ opacity: '50%' }}
@@ -127,15 +139,15 @@ const Competitions = () => {
       <div className="flex flex-col items-center w-full gap-3 p-4 overflow-hidden" >
         <Tabs aria-label="Dynamic tabs" items={tabs} variant="bordered" className="flex flex-row">
           {(item) => (
-            <Tab key={item.id} title={item.label} className="text-xl">
+            <Tab key={item.id} title={item.label} className={`${bebas_neue.className} text-xl`}>
               <div className="gap-10" style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center' }}>
                 {item.content.map((content) =>
-                  <Card className="p-6 h-full border-1 border-white"
+                  <Card className=" h-full border-1 border-white"
                     style={{
-                      width: '300px', backgroundColor: 'transparent', padding: 6, height: '425px'
+                      width: '300px', backgroundColor: 'transparent', padding: 6, objectFit: 'contain'
                     }}
                   >
-                    <CardBody className=" p-4"
+                    <CardBody className="p-4"
                     >
                       <Card className=" my-auto items-end" 
                       style={{
@@ -149,7 +161,6 @@ const Competitions = () => {
                           }}
                         >{content.date}</Chip>
                         <Image
-                        
                           isBlurred
                           className="z-0 w-full object-cover rounded"
                           style={{
@@ -162,13 +173,11 @@ const Competitions = () => {
                       </Card>
 
                     </CardBody>
-                    <CardHeader className="pb-0 py-4 px-4 flex-col items-center gap-4">
-                      <div className="flex flex-row gap-2">
+                    <CardHeader className="pb-0 py-4 px-4 flex-col items-center gap-2 ">
                         <p className="text-3xl uppercase font-bold">{content.eventName}</p>
-                      </div>
-                      <small className="text-md text-default-500 text-justify"
+                      <small className={`${poppins.className} text-md text-center text-default-500`}
                       style={{
-                        height: '100px'
+                        height: '170px', textJustify: 'inter-word', objectFit: 'contain'
                       }}>{content.description} </small>
                       <Button
                         href="#"
