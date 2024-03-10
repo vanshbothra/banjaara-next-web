@@ -137,12 +137,12 @@ const Competitions = () => {
         </Card>
       </div>
       <div className="flex flex-col items-center w-full gap-3 p-4 overflow-hidden" >
-        <Tabs aria-label="Dynamic tabs" items={tabs} variant="bordered" className="flex flex-row">
+        <Tabs aria-label="Dynamic tabs" items={tabs} color="secondary" size="lg" radius="full" variant="bordered" className="flex flex-row z-[1]">
           {(item) => (
             <Tab key={item.id} title={item.label} className={`${bebas_neue.className} text-xl`}>
               <div className="gap-10" style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center' }}>
-                {item.content.map((content) =>
-                  <Card className=" h-full border-1 border-white"
+                {item.content.map((content, index) =>
+                  <Card className=" h-full border-1 border-white" key={index}
                     style={{
                       width: '300px', backgroundColor: 'transparent', padding: 6, objectFit: 'contain'
                     }}
@@ -182,6 +182,7 @@ const Competitions = () => {
                       <Button
                         href="#"
                         as={Link}
+                        className={`${poppins.className}`}
                         style={{ backgroundColor: 'purple' }}
                         showAnchorIcon
                         variant="solid"

@@ -22,10 +22,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${poppins.className}`}>
+      <body className={`${poppins.className} overflow-x-hidden`}>
         <Providers>
-          <div className="z-1 fixed w-full h-full brightness-50 bg-auto m-0">
-            <Image src='/galaxy-bg.png' alt="Galaxy" fill={true} className="blur-lg overflow-hidden" />
+          <div className="z-[0] fixed w-full h-full brightness-50 bg-auto m-0">
+            <Image src='/galaxy-bg.png' alt="Galaxy" fill={true} className="blur-lg object-cover sm:object-fill overflow-hidden" />
           </div>
           <NavbarComponent/>
           {children}
