@@ -27,6 +27,11 @@ export default function RootLayout({
   const pathname = usePathname();
   return (
     <html lang="en">
+      <head>
+        <title>
+          Banjaara 2024
+        </title>
+      </head>
       <body className={`${poppins.className} overflow-x-hidden`}>
         <Providers>
           <div className="z-[0] fixed w-full h-full brightness-50 bg-auto m-0">
