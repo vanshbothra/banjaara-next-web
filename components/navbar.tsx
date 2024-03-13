@@ -1,8 +1,8 @@
 'use client'
 
-import {Navbar, NavbarBrand, NavbarMenuToggle, NavbarMenu, NavbarMenuItem, NavbarContent, NavbarItem, Button} from "@nextui-org/react";
-import React, {useState, useEffect} from "react";
-import Link from 'next/link'
+import {Navbar, NavbarBrand, NavbarMenuToggle, NavbarMenu, NavbarMenuItem, NavbarContent, NavbarItem, Link, Button} from "@nextui-org/react";
+import React, {useState} from "react";
+import { usePathname } from "next/navigation";
 
 const menuItems = [
   "Home",
@@ -10,8 +10,17 @@ const menuItems = [
   "Team",
 ];
 
+const navigation = [
+  { title: 'Home', link: '/' },
+  { title: 'Competitions', link: '/competitions' },
+  { title: 'Team', link: '/team' },
+ ];
+
 const NavbarComponent = () => {
+  const pathname = usePathname();
   const [isMenuOpen, setIsMenuOpen] = React.useState(false);
+  const [activeLink] = useState(pathname);
+  
   return (
     <Navbar
       isBordered
@@ -31,13 +40,18 @@ const NavbarComponent = () => {
           <p className="font-bold text-inherit">Banjaara &apos;24</p>
       </NavbarBrand>
       <NavbarContent className="hidden sm:flex gap-6" justify="center">
-        <NavbarItem isActive>
-          <Link color="secondary" href="/">
-            Home
-          </Link>
-        </NavbarItem>
-        <NavbarItem>
-          <Link color="foreground" href="/competitions" aria-current="page">
+        {navigation.map((item, index) => (
+          <NavbarItem key={index} isActive={activeLink === item.link}>
+            <Link 
+              color={activeLink === item.link ? 'secondary' : 'foreground'} 
+              href={item.link} 
+            >
+              {item.title}
+            </Link>
+          </NavbarItem>
+        ))} 
+        {/* <NavbarItem>
+          <Link color="foreground" href="#" aria-current="page">
             Competitions
           </Link>
         </NavbarItem>
@@ -45,7 +59,7 @@ const NavbarComponent = () => {
           <Link color="foreground" href="#">
             Our Team
           </Link>
-        </NavbarItem>
+        </NavbarItem> */}
       </NavbarContent>
 
       <NavbarContent justify="end">
@@ -56,7 +70,7 @@ const NavbarComponent = () => {
         </NavbarItem>
       </NavbarContent>
 
-      {/* <NavbarMenu className="dark">
+      <NavbarMenu className="dark">
         {menuItems.map((item, index) => (
           <NavbarMenuItem key={`${item}-${index}`}>
             <Link
@@ -71,7 +85,7 @@ const NavbarComponent = () => {
             </Link>
           </NavbarMenuItem>
         ))}
-      </NavbarMenu> */}
+      </NavbarMenu>
     </Navbar>
   )
 }
