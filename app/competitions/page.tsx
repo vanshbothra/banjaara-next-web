@@ -124,7 +124,7 @@ const Competitions = () => {
                       {content.description}
                     </small>
                     <Button
-                      href="#"
+                      href={content.link}
                       as={Link}
                       style={{ backgroundColor: 'purple' }}
                       showAnchorIcon
