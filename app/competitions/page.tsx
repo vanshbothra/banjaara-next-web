@@ -35,7 +35,7 @@ const Competitions = () => {
             removeWrapper
             alt="Card background"
             className="z-0 w-full h-1/5 object-cover"
-            src="/competitions.jpg"
+            src="/competitions.JPG"
           />
         </Card>
       </div>
