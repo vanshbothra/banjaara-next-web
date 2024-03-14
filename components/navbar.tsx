@@ -64,7 +64,7 @@ const NavbarComponent = () => {
 
       <NavbarContent justify="end">
         <NavbarItem>
-          <Button as={Link} color="danger" href="#" variant="flat">
+          <Button as={Link} color="danger" href="https://drive.google.com/drive/folders/1qUgcenK5DWUZuZYR90c4CsVA8bCULDzf?usp=sharing" variant="flat">
             Oh Shit Kit!
           </Button>
         </NavbarItem>
@@ -75,9 +75,7 @@ const NavbarComponent = () => {
           <NavbarMenuItem key={`${item}-${index}`}>
             <Link
               className="w-full"
-              color={
-                index === 2 ? "warning" : index === menuItems.length - 1 ? "danger" : "foreground"
-              }
+              color={activeLink === item.link ? 'secondary' : 'foreground'}
               href={item.link}
               size="lg"
             >
