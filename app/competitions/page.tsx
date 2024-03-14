@@ -53,7 +53,6 @@ const Competitions = () => {
       <Tabs
         aria-label="Dynamic tabs"
         items={content}
-        variant="bordered"
         className="flex flex-row">
         {(item) => (
           <Tab
