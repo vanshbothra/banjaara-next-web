@@ -26,7 +26,7 @@ const Competitions = () => {
       <div className="w-full gap-2 my-auto">
         <Card className="my-auto justify-center h-full">
           <CardHeader className="absolute z-10 h-2/5 justify-center">
-            <p className={`${bebas_neue.className} text-white font-medium text-8xl`}>
+            <p className={`${bebas_neue.className} text-white font-medium text-6xl sm:text-8xl`}>
               Competitions
               </p>
           </CardHeader>
@@ -59,7 +59,7 @@ const Competitions = () => {
           <Tab
             key={item.id}
             title={item.label}
-            className={`${bebas_neue.className} text-xl`}>
+            className={`${bebas_neue.className} text-sm sm:text-2xl`}>
             <div
               style={{
                 display: 'flex',
@@ -70,9 +70,8 @@ const Competitions = () => {
               {item.content.map((content) =>
                 <Card
                   key={item.label}
+                  className="h-[500px] sm:h-[550px] w-[340px] sm:w-[380px]"
                   style={{
-                    height: '550px',
-                    width: '380px',
                     backgroundColor: 'transparent',
                     padding: 6,
                     objectFit: 'contain',
@@ -92,15 +91,14 @@ const Competitions = () => {
                         className="absolute z-10 p-2 m-4"
                         style={{
                           borderColor: 'purple',
-                          backgroundColor: 'purple'
+                          backgroundColor: 'purple',
                         }}
                         size="lg"
                       >{content.date}</Chip>
                       <Image
                         isBlurred
-                        className="z-0 w-full object-cover rounded"
+                        className="z-0 w-full object-cover rounded h-[200px] sm:h-[180px]"
                         style={{
-                          height: '180px',
                           width: '100%'
                         }}
                         alt="Card background"
@@ -115,9 +113,8 @@ const Competitions = () => {
                       {content.eventName}
                     </p>
                     <small
-                      className={`${poppins.className} text-md text-center text-default-500`}
+                      className={`${poppins.className} text-base/normal sm:text-lg text-center text-default-500 h-[150px] sm:h-[200px]`}
                       style={{
-                        height: '200px',
                         textJustify: 'inter-word',
                         objectFit: 'contain'
                       }}>

@@ -71,17 +71,17 @@ const NavbarComponent = () => {
       </NavbarContent>
 
       <NavbarMenu className="dark">
-        {menuItems.map((item, index) => (
+        {navigation.map((item, index) => (
           <NavbarMenuItem key={`${item}-${index}`}>
             <Link
               className="w-full"
               color={
                 index === 2 ? "warning" : index === menuItems.length - 1 ? "danger" : "foreground"
               }
-              href="#"
+              href={item.link}
               size="lg"
             >
-              {item}
+              {item.title}
             </Link>
           </NavbarMenuItem>
         ))}
