@@ -3,7 +3,7 @@ import {Card, CardHeader, CardBody, CardFooter, Image, Button} from "@nextui-org
 
 const ImageGrid = () => {
   return (
-    <div className="max-w-full gap-2 grid grid-cols-12 grid-rows-2 px-8">
+    <div className="max-w-full gap-10 grid grid-cols-12 grid-rows-2 px-8">
     <Card className="col-span-12 sm:col-span-4 h-[300px] hover:scale-110 hover:z-10">
       <Image
         removeWrapper

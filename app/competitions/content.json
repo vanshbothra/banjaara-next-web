@@ -5,28 +5,28 @@
         "content": [
             {
                 "link": "https://unstop.com/events/footloose-banjaara-2024-ashoka-university-sonepat-haryana-923697",
-                "image": "/events/westernDance.jpg",
+                "image": "/events/westernDance.jpeg",
                 "eventName": "FOOTLOOSE",
                 "date": "06/04/2024",
                 "description": "Feel the high energy, get swept away by the captivating rhythm, and move to the groovy beats at our premier western dance competition!"
             },
             {
                 "link": "https://unstop.com/competitions/thairaav-banjaara-2024-ashoka-university-sonepat-haryana-923733",
-                "image": "/events/indianFolk.jpg",
+                "image": "/events/indianFolk.jpeg",
                 "eventName": "THAIRAAV",
                 "date": "06/04/2024",
                 "description": "Perform any Indian classical or folk style with your team! Bollywood, semi-classical and fusion styles are not allowed."
             },
             {
                 "link": "https://unstop.com/events/dance-off-banjaara-2024-ashoka-university-sonepat-haryana-923767",
-                "image": "/events/danceOff.jpg",
+                "image": "/events/danceOff.jpeg",
                 "eventName": "DANCE OFF",
                 "date": "06/04/2024",
                 "description": "Whether you're into hip-hop or freestyle, ballet or bharatnatyam, salsa or contemporary, this is your chance to shine!"
             },
             {
                 "link": "https://unstop.com/events/battle-of-the-bands-banjaara-2024-ashoka-university-sonepat-haryana-924299",
-                "image": "/events/bob.jpg",
+                "image": "/events/bob.jpeg",
                 "eventName": "BATTLE OF THE BANDS",
                 "date": "06/04/2024",
                 "description": "With blazing guitars and booming drums, come and participate in this high-energy showdown between the best of bands."
@@ -40,21 +40,21 @@
             },
             {
                 "link": "https://unstop.com/events/jukebox-banjaara-2024-ashoka-university-sonepat-haryana-924353",
-                "image": "/events/drums.jpg",
+                "image": "/events/drums.jpeg",
                 "eventName": "JUKEBOX",
                 "date": "06/04/2024",
                 "description": "From breathtaking solos to mesmerizing duets and trios, witness the musical talent of the instrumentalists as they light up the stage."
             },
             {
                 "link": "https://unstop.com/competitions/nautanki-banjaara-2024-ashoka-university-sonepat-haryana-924385",
-                "image": "/events/nukkadNatak.jpg",
+                "image": "/events/nukkadNatak.jpeg",
                 "eventName": "NAUTANKI",
                 "date": "06/04/2024",
                 "description": "From the legendary fables of the gallis to the untold tales of the nukkads, come weave magic with your words and gestures."
             },
             {
                 "link": "https://unstop.com/competitions/food-fiesta-banjaara-2024-ashoka-university-sonepat-haryana-923791",
-                "image": "/competitions.jpg",
+                "image": "/events/foodFiesta.jpeg",
                 "eventName": "FOOD FIESTA",
                 "date": "06/04/2024",
                 "description": "Here is your chance to see how much you can eat within 2 minutes! With no limit on the amount of food, the winner takes all! "
@@ -88,14 +88,14 @@
             },
             {
                 "link": "https://unstop.com/events/midsummer-muse-banjaara-2024-ashoka-university-sonepat-haryana-923799",
-                "image": "/competitions.jpg",
+                "image": "/events/midSummer2.jpeg",
                 "eventName": "MIDSUMMER MUSE",
                 "date": "06/04/2024",
                 "description": "Embark on a journey through the depths of emotion, the heights of passion, and the complexities of the human experience as you bring Shakespeare's iconic monologues and soliloquies to life on stage."
             },
             {
                 "link": "https://unstop.com/competitions/rahageer-banjaara-2024-ashoka-university-sonepat-haryana-923800",
-                "image": "/competitions.jpg",
+                "image": "/events/rahageer.jpeg",
                 "eventName": "RAHAGEER",
                 "date": "06/04/2024",
                 "description": "Unleash your inner wordsmith and ignite the stage with your passion! Join our electrifying slam poetry competition where every word becomes a symphony of expression."
@@ -116,7 +116,7 @@
             },
             {
                 "link": "https://unstop.com/events/symphony-of-suspicion-banjaara-2024-ashoka-university-sonepat-haryana-923802",
-                "image": "/events/suspicion.jpg",
+                "image": "/events/suspicion.jpeg",
                 "eventName": "SYMPHONY OF SUSPICION",
                 "date": "06/04/2024",
                 "description": "Are you a rockstar in talaash of a competition that allows you to show your passion for true crime? Look no further!"
@@ -129,7 +129,7 @@
         "content": [
             {
                 "link": "https://unstop.com/events/aaina-banjaara-2024-ashoka-university-sonepat-haryana-923793",
-                "image": "/events/aaina.jpg",
+                "image": "/events/aaina.jpeg",
                 "eventName": "AAINA",
                 "date": "06/04/2024",
                 "description": "Unveil the stories behind faces through portraits that mirror narratives and reflect spirits."
@@ -143,7 +143,7 @@
             },
             {
                 "link": "https://unstop.com/competitions/trashionista-banjaara-2024-ashoka-university-sonepat-haryana-923818",
-                "image": "/events/trashionista.jpg",
+                "image": "/events/trashionista.jpeg",
                 "eventName": "TRASHIONISTA",
                 "date": "06/04/2024",
                 "description": "Best out of waste but high fashion edition!"
@@ -198,7 +198,7 @@
             },
             {
                 "link": "https://unstop.com/competitions/space-turtle-banjaara-2024-ashoka-university-sonepat-haryana-923810",
-                "image": "/events/spaceTurtle.jpg",
+                "image": "/events/spaceTurtle.jpeg",
                 "eventName": "SPACE TURTLE",
                 "date": "06/04/2024",
                 "description": "Code your cosmic journey with Python Turtle by creating a stellar graphic capturing the essence of your voyage towards the stars."
