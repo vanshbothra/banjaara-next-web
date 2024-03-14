@@ -32,12 +32,14 @@ const NavbarComponent = () => {
       </NavbarContent>
 
       <NavbarContent className="sm:hidden pr-3" justify="center">
-        <NavbarBrand>
-          <p className="font-bold text-inherit">Banjaara &apos;24</p>
-        </NavbarBrand>
+      <Link href="/" color="foreground">
+          <p className="font-bold text-inherit">Banjaara</p>
+          </Link>
       </NavbarContent>
       <NavbarBrand className="hidden sm:flex">
-          <p className="font-bold text-inherit">Banjaara &apos;24</p>
+        <Link href="/" color="foreground">
+          <p className="font-bold text-inherit">Banjaara</p>
+          </Link>
       </NavbarBrand>
       <NavbarContent className="hidden sm:flex gap-6" justify="center">
         {navigation.map((item, index) => (
