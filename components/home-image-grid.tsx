@@ -9,7 +9,7 @@ const ImageGrid = () => {
           removeWrapper
           alt="Card background"
           className="z-0 w-full h-full object-cover"
-          src="/home-1.jpg"
+          src="/home-1.JPG"
         />
       </Card>
       <Card className="col-span-12 sm:col-span-4 h-[300px] hover:scale-110 hover:z-10">
@@ -25,7 +25,7 @@ const ImageGrid = () => {
           removeWrapper
           alt="Card background"
           className="z-0 w-full h-full object-cover"
-          src="/home-3.jpg"
+          src="/home-3.JPG"
         />
       </Card>
       <Card className="w-full h-[300px] col-span-12 sm:col-span-5 hover:scale-110 hover:z-10">
