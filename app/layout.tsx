@@ -5,6 +5,7 @@ import Image from "next/image";
 import Providers from "./provider";
 import { Poppins} from "next/font/google";
 import MeteorProvider from "@/components/meteor-provider";
+import Footer from "@/components/footer";
 
 const poppins = Poppins({
   subsets: ["latin"],
@@ -43,6 +44,9 @@ export default function RootLayout({
           )} */}
           <NavbarComponent/>
           {children}
+          <footer>
+              <Footer />
+          </footer>
         </Providers>
       </body>
     </html>

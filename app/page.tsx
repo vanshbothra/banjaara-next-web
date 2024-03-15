@@ -16,7 +16,7 @@ export default function Home() {
   return (
     <main className="min-h-screen py-24 px-4 sm:py-14 sm:px-24">
       <div className="w-5/6 sm:w-3/5 sm:h-2/5 max-sm:mb-[15vh] max-sm:mt-[15vh] mx-auto mb-[20vh]">
-        <Image isBlurred src='/banjaara-logo.png' alt="Banjaara Logo" className="object-cover" />
+        <Image isBlurred src='/banjaara-star-logo.png' alt="Banjaara Logo" className="object-cover" />
         <div className="relative z-10 mt-0">
           <TextGenerateEffectDemo />
         </div>
@@ -54,7 +54,7 @@ export default function Home() {
 
       <div className="max-w-full grid grid-cols-12 sm:px-8 sm:mb-[5vh]">
         <Card className={`${montserrat.className} py-[10px] text-center shadow-none col-span-12 bg-transparent border-none sm:text-8xl`}>
-          Banjaara 2k23
+          Banjaara 2023
         </Card>
       </div>
       <ImageGrid />
