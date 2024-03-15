@@ -55,7 +55,7 @@ const Countdown: React.FC = () => {
   });
 
   return (
-    <div className="grid grid-flow-col gap-6 mx-auto mt-[1vh] md:mt-[0vh]">
+    <div className="grid grid-flow-col gap-[0.8rem] sm:gap-6 mx-auto mt-[1vh] md:mt-[0vh]">
       <CountdownCard label="Days" value={timeLeft.days} />
       <CountdownCard label="Hours" value={timeLeft.hours} />
       <CountdownCard label="Minutes" value={timeLeft.minutes} />
