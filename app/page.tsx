@@ -53,7 +53,7 @@ export default function Home() {
       <Sponsors /> */}
 
       <div className="max-w-full grid grid-cols-12 sm:px-8 sm:mb-[5vh]">
-        <Card className={`${montserrat.className} py-[10px] text-center shadow-none col-span-12 bg-transparent border-none sm:text-8xl`}>
+        <Card className={`${montserrat.className} py-[10px] text-center shadow-none text-4xl max-sm:mb-6 col-span-12 bg-transparent border-none sm:text-8xl`}>
           Banjaara 2023
         </Card>
       </div>
