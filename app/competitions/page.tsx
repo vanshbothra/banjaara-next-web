@@ -54,13 +54,12 @@ const Competitions = () => {
         aria-label="Dynamic tabs"
         items={content}
         size="sm"
-        radius="lg"
         className="flex flex-row">
         {(item) => (
           <Tab
             key={item.id}
             title={item.label}
-            className={`${bebas_neue.className} text-sm sm:text-2xl p-2 sm:p-6`}>
+            className={`${bebas_neue.className}  sm:text-2xl px-1 sm:p-6 text-medium`}>
             <div
               style={{
                 display: 'flex',
