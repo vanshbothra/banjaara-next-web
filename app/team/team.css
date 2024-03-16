@@ -1,0 +1,50 @@
+@media (min-width: 0px) and (max-width: 1180px){
+    .responsive-div{
+        display: none;
+}
+}
+@media (min-width: 1181px){
+    .responsive-div-small{
+        display: none;
+}
+}
+@media (min-width: 0px) and (max-width: 1180px){
+    .responsive-div-small{
+        display: block;
+    }
+}
+
+@media (min-width: 0px) and (max-width: 1180px){
+    .responsive-grid-small{
+        display: grid; 
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+}
+@media (min-width: 1181px){
+    .responsive-grid-small{
+        display: grid; 
+        grid-template-columns: repeat(6, minmax(0, 1fr));
+    }
+}
+
+@media (min-width: 0px) and (max-width: 1180px){
+    .responsive-size{
+        margin-top: 95px;
+    }
+}
+@media (min-width: 1181px){
+    .responsive-size{
+        margin-top: 150px;
+    }
+}
+
+@media (min-width: 0px) and (max-width: 1180px){
+    .responsive-name{
+        margin-top: 25px;
+    }
+}
+@media (min-width: 1181px){
+    .responsive-name{
+        margin-top: 0px;
+    }
+}

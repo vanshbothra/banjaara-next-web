@@ -63,7 +63,6 @@ const NavbarComponent = () => {
           </Link>
         </NavbarItem> */}
       </NavbarContent>
-
       <NavbarContent justify="end">
         <NavbarItem>
           <Button as={Link} color="danger" target="_blank" href="https://drive.google.com/drive/folders/1qUgcenK5DWUZuZYR90c4CsVA8bCULDzf?usp=sharing" variant="flat">
