@@ -56,7 +56,7 @@ interface festSecs{
   const DFS: React.FC<dfs> = ({ name, designation, imgSrc, dept }) => {
     return (
     <div className="w-full h-[400px] md:h-[320px] border border-white-600 bg-black rounded-3xl grid grid-rows-2">
-        <div className="mx-auto">
+        <div className="mx-auto w-full">
         <img src={imgSrc} alt="Person" className="object-cover h-full w-full rounded-[24px]"></img>
         </div>
         <div className="text-center mt-4">
@@ -99,8 +99,8 @@ export default function team(){
           } designation="Fest Secretary"/>
           </div>
           <div className="mt-10 responsive-grid-small gap-4 relative px-4 md:px-28">
-            <DFS imgSrc ="/team/Anirudh_DFS.jpg" name="Anirudh" designation="Deputy Fest Secretary" dept = "Headliners, Finance, and Sponsorships"/>
-            <DFS imgSrc ="/team/Anwita_DFS.jpg" name="Anwita Gopalka" designation="Deputy Fest Secretary" dept ="PR & Outreach, Social Media & Marketing, Content and Design"/>
+            <DFS imgSrc ="/team/Anirudh_DFS.jpg" name="Anirudh" designation="Deputy Fest Secretary" dept = "Finance, Sponsorships, and Headliners"/>
+            <DFS imgSrc ="/team/Anwita_DFS.jpg" name="Anwita Gopalka" designation="Deputy Fest Secretary" dept ="PR & Outreach, Social Media and Marketing, Content and Design"/>
             <DFS imgSrc ="/team/Hubaba_DFS.jpg" name="Hubaba Masood" designation="Deputy Fest Secretary" dept = "Logistics, Decor, Legal & Documentation"/>
             <DFS imgSrc ="/team/Kritkeerat_DFS.jpg" name="Kritkeerat Kaur" designation="Deputy Fest Secretary" dept = "Competitions & Informals"/>
             <DFS imgSrc ="/team/Sania_DFS.jpg" name="Sania Bhargava" designation="Deputy Fest Secretary" dept = "Safety and Security, Travel & Hospitality and Admin"/>
