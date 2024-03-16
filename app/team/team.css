@@ -14,18 +14,14 @@
     }
 }
 
-@media (min-width: 0px) and (max-width: 1180px){
+@media (min-width: 0px){
     .responsive-grid-small{
         display: grid; 
         grid-template-columns: repeat(3, minmax(0, 1fr));
+        grid-gap: 24px;
     }
 }
-@media (min-width: 1181px){
-    .responsive-grid-small{
-        display: grid; 
-        grid-template-columns: repeat(6, minmax(0, 1fr));
-    }
-}
+
 
 @media (min-width: 0px) and (max-width: 1180px){
     .responsive-size{
@@ -34,7 +30,7 @@
 }
 @media (min-width: 1181px){
     .responsive-size{
-        margin-top: 150px;
+        margin-top: 190px;
     }
 }
 
