@@ -90,7 +90,7 @@ export default function team(){
                 Amishi Gupta 
                 </div>
           } designation="Fest Secretary"/>
-          <FestSecs imgSrc = "/team/Lekha_FS.jpg" name= {
+          <FestSecs imgSrc = "/team/Lekha_FS.JPG" name= {
             <><div className="responsive-div-small">
                         Lekha Siva kumar
                     </div><div className="responsive-div">
