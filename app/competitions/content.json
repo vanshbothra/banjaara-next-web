@@ -61,14 +61,14 @@
             },
             {
                 "link": "https://unstop.com/events/standup-standoff-banjaara-2024-ashoka-university-sonepat-haryana-923785",
-                "image": "/competitions.jpg",
+                "image": "/events/standup.jpg",
                 "eventName": "STANDUP STANDOFF",
                 "date": "07/04/2024",
                 "description": "Prepare to unleash waves of laughter in the ultimate showcase of comedic brilliance as participants embark on a journey to prove if their wit can reign supreme."
             },
             {
                 "link": "https://unstop.com/competitions/mukhauta-banjaara-2024-ashoka-university-sonepat-haryana-924394",
-                "image": "/competitions.jpg",
+                "image": "/events/mukhauta.jpg",
                 "eventName": "MUKHAUTA",
                 "date": "06/04/2024",
                 "description": "Come gather your theater troupe, polish your lines, and let your passion for the craft shine as you compete for our very own stage play competition!"
@@ -81,7 +81,7 @@
         "content": [
             {
                 "link": "#",
-                "image": "/competitions.jpg",
+                "image": "/events/debate.jpg",
                 "eventName": "ASHOKA PARLIAMENTARY DEBATE",
                 "date": "07/04/2024",
                 "description": "Whether you're a seasoned orator or a novice eager to test your mettle, this is your chance to shine on the grand stage of discourse."
@@ -102,14 +102,14 @@
             },
             {
                 "link": "https://unstop.com/events/shipwreck-banjaara-2024-ashoka-university-sonepat-haryana-923801",
-                "image": "/competitions.jpg",
+                "image": "/events/shipwreck.jpg",
                 "eventName": "SHIPWRECK",
                 "date": "06/04/2024",
                 "description": "Brace for impact and dive into the ultimate challenge to ensure your celebrity secures the last lifejacket on a sinking ship. Think quick, strategise smart, prove your worth, and be the hero of the sinking ship."
             },
             {
                 "link": "https://unstop.com/events/sukhanwar-banjaara-2024-ashoka-university-sonepat-haryana-924362",
-                "image": "/competitions.jpg",
+                "image": "/events/sukhanwar.png",
                 "eventName": "SUKHANWAR",
                 "date": "07/04/2024",
                 "description": "In every little hamlet, our country exudes its own little quirks and specialities that make it beautiful and unique. Let us celebrate this diversity with poetry performances in Hindi and Urdu."
@@ -136,7 +136,7 @@
             },
             {
                 "link": "https://unstop.com/events/safarnama-banjaara-2024-ashoka-university-sonepat-haryana-923796",
-                "image": "/competitions.jpg",
+                "image": "/events/safarnama.jpg",
                 "eventName": "SAFARNAMA",
                 "date": "07/04/2024",
                 "description": "Lights, Camera, Action! Let your inner filmmaker shine, as you create your very own short film, with 48 hours to direct, shoot and edit!"
@@ -156,42 +156,42 @@
         "content": [
             {
                 "link": "https://unstop.com/competitions/barrier-barrage-banjaara-2024-ashoka-university-sonepat-haryana-924402",
-                "image": "/competitions.jpg",
+                "image": "/events/barrage.jpg",
                 "eventName": "BARRIER BARRAGE",
                 "date": "07/04/2024",
                 "description": "Unleash your entrepreneurial spirit as you dive into the Shark Tank, and pitch your unique ideas to a panel of seasoned investors, showcasing your creativity and passion in this ultimate battle of innovation."
             },
             {
                 "link": "https://unstop.com/events/green-innovators-challenge-banjaara-2024-ashoka-university-sonepat-haryana-923803",
-                "image": "/competitions.jpg",
+                "image": "/events/greenInnovators.webp",
                 "eventName": "GREEN INNOVATORS' CHALLENGE",
                 "date": "07/04/2024",
                 "description": "Here is your chance to save the world, one solution at a time. Pitch real-life solutions to satisfy your saviours complex and rescue the planet!"
             },
             {
                 "link": "https://unstop.com/quiz/in-quiz-itive-banjaara-2024-ashoka-university-sonepat-haryana-923804",
-                "image": "/competitions.jpg",
+                "image": "/events/inquizitive.jpg",
                 "eventName": "IN-QUIZ-ITIVE",
                 "date": "07/04/2024",
                 "description": "Think you've got what it takes to conquer the ultimate quiz adventure? Welcome to Banjaara's very own In-quiz-itive, where brains collide and champions arise!"
             },
             {
                 "link": "https://unstop.com/competitions/marketing-101-banjaara-2024-ashoka-university-sonepat-haryana-923805",
-                "image": "/competitions.jpg",
+                "image": "/events/marketing.jpg",
                 "eventName": "MARKETING 101",
                 "date": "06/04/2024",
                 "description": "Do you have it in you to turn the impossible into the irresistible with your marketing genius?"
             },
             {
                 "link": "https://unstop.com/events/samadhan-banjaara-2024-ashoka-university-sonepat-haryana-923812",
-                "image": "/competitions.jpg",
+                "image": "/events/samadhan.jpg",
                 "eventName": "SAMADHAN",
                 "date": "06/04/2024",
                 "description": "More than a competition, it's a journey into the heart of innovation. Witness the convergence of determination, expertise, and capital."
             },
             {
                 "link": "https://unstop.com/competitions/starstruck-banjaara-2024-ashoka-university-sonepat-haryana-923811",
-                "image": "/competitions.jpg",
+                "image": "/events/starstruck.jpg",
                 "eventName": "STARSTRUCK",
                 "date": "06/04/2024",
                 "description": "Have you ever wanted to reimagine the stars? This is your chance to design a graphic that transforms your chosen star into nothing short of a masterpiece."
@@ -205,21 +205,21 @@
             },
             {
                 "link": "https://unstop.com/events/fifa-banjaara-2024-ashoka-university-sonepat-haryana-923806",
-                "image": "/competitions.jpg",
+                "image": "/events/fifa.jpg",
                 "eventName": "FIFA",
                 "date": "07/04/2024",
                 "description": "Ofcourse you know what this is!"
             },
             {
                 "link": "https://unstop.com/events/valorant-banjaara-2024-ashoka-university-sonepat-haryana-923807",
-                "image": "/competitions.jpg",
+                "image": "/events/valorant.jpg",
                 "eventName": "VALORANT",
                 "date": "06/04/2024",
                 "description": "Whether you're a top fragging duelist or a site holding controller, prove that you and your friends are the perfect squad at Banjaara’s premiere Valorant event."
             },
             {
                 "link": "https://unstop.com/competitions/banjaara-stock-exchange-banjaara-2024-ashoka-university-sonepat-haryana-924810",
-                "image": "/competitions.jpg",
+                "image": "/events/stockExchange.jpg",
                 "eventName": "BANJAARA STOCK EXCHANGE",
                 "date": "07/04/2024",
                 "description": "Get used to being The Wolf of Wall Street because this competition is about going big or going home. Mint millions or lose millions, it all comes down to one choice. "

@@ -2,6 +2,7 @@
 import React from "react";
 import { Poppins } from "next/font/google";
 import { Bebas_Neue } from "next/font/google";
+import { Montserrat } from "next/font/google";
 import { Tabs, Tab, Card, CardBody, CardHeader, Image, Textarea, Divider, Button, Link, Chip } from "@nextui-org/react";
 import content from './content.json'
 
@@ -15,6 +16,11 @@ const bebas_neue = Bebas_Neue({
   weight: '400'
 })
 
+const montserrat = Montserrat({
+  subsets: ["latin"],
+  weight: "800",
+})
+
 const Competitions = () => {
   return (
     <div 
@@ -26,15 +32,15 @@ const Competitions = () => {
       <div className="w-full gap-2 my-auto">
         <Card className="my-auto justify-center h-full">
           <CardHeader className="absolute z-10 h-2/5 justify-center">
-            <p className={`${bebas_neue.className} text-white font-medium text-6xl sm:text-8xl`}>
-              Competitions
+            <p className={`${montserrat.className} text-white font-medium text-4xl md:text-8xl`}>
+              COMPETITIONS
               </p>
           </CardHeader>
           <Image
             style={{ opacity: '50%' }}
             removeWrapper
             alt="Card background"
-            className="z-0 w-full h-1/5 object-cover"
+            className="z-0 w-full h-1/5 object-cover brightness-50"
             src="/competitions.jpg"
           />
         </Card>
