@@ -17,7 +17,7 @@ const montserrat = Montserrat({
 const CountdownCard: React.FC<CountdownProps> = ({ label, value }) => {
   return (
     <div className="inline-block h-20 md:h-32 w-20 md:w-36 bg-gray rounded-md text-white text-center">
-      <div className={`${montserrat.className} text-white-500 text-4xl sm:text-8xl mt-1 md:mt-4`} suppressHydrationWarning={true}>{value}</div>
+      <div className={`${montserrat.className} text-white-500 text-4xl md:text-8xl mt-1 md:mt-4`} suppressHydrationWarning={true}>{value}</div>
       <div className={`md:mt-1 text-sm sm:text-md font-bold mb-2`}>{label}</div>
     </div>
   );
@@ -25,7 +25,7 @@ const CountdownCard: React.FC<CountdownProps> = ({ label, value }) => {
 
 const Countdown: React.FC = () => {
   const calculateTimeLeft = () => {
-    const targetDate = '2024-04-06T09:30:00';
+    const targetDate = '2024-04-06T09:30:01';
     const now = new Date().getTime();
     const targetTime = new Date(targetDate).getTime();
     const timeDifference = targetTime - now;
