@@ -6,6 +6,7 @@ import Providers from "./provider";
 import { Poppins} from "next/font/google";
 import MeteorProvider from "@/components/meteor-provider";
 import Footer from "@/components/footer";
+import { Analytics } from "@vercel/analytics/react"
 
 const poppins = Poppins({
   subsets: ["latin"],
