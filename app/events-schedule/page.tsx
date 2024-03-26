@@ -68,7 +68,7 @@ export default function eventsschedule(){
     </p>
   </div>
   <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative ml-[3vh] md-ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+    <p className={`${bebas_neue.className} relative ml-[3vh] md-ml-[5vh] font-medium text-[#FFFFFF] text-2xl`}>
       Reddy&apos;s Auditorium
     </p>
   </div>
@@ -327,7 +327,7 @@ export default function eventsschedule(){
     </p>
   </div>
   <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative ml-[3vh] md-ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+    <p className={`${bebas_neue.className} relative ml-[3vh] md-ml-[5vh] font-medium text-[#FFFFFF] text-2xl`}>
       Reddy&apos;s Auditorium
     </p>
   </div>
