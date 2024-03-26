@@ -46,7 +46,7 @@ interface festSecs{
         <div className="mx-auto w-full">
           <img src={imgSrc} alt="Person" style={imageStyle} className="object-cover"></img>
         </div>
-        <div className="ml-2 md:ml-3 responsive-size">
+        <div className="md:ml-3 responsive-size">
         <div className="text-[#F72585] font-bold text-[18px] max-md:text-center md:text-[33px]">
             Amishi <br className="max-md:hidden" /> Gupta
         </div>
@@ -61,7 +61,7 @@ interface festSecs{
   const FestSecs2: React.FC<festSecs> = ({ name, designation, imgSrc }) => {
     return (
     <div className="mb-[5vh] w-full h-[270px] border border-white-600 bg-black rounded-3xl grid grid-cols-2">
-        <div className="ml-2 md:ml-3 responsive-size">
+        <div className="md:ml-3 responsive-size">
         <div className="text-[#F72585] font-bold text-[18px] max-md:text-center md:text-[33px]">
             Lekha <br className="max-md:hidden" /> Sivakumar
         </div>
@@ -78,7 +78,7 @@ interface festSecs{
 
   const DFS: React.FC<dfs> = ({ name, designation, imgSrc, dept }) => {
     return (
-    <div className="w-full h-[400px] md:h-[320px] border border-white-600 bg-black rounded-3xl grid grid-rows-3">
+    <div className="w-full h-[350px] md:h-[320px] border border-white-600 bg-black rounded-3xl grid grid-rows-3">
         <div className="mx-auto w-full row-span-2">
         <img src={imgSrc} alt="Person" className="object-cover h-full w-full rounded-[24px]"></img>
         </div>
@@ -86,10 +86,10 @@ interface festSecs{
         <div className="text-[#F72585] text-[18px] md:text-2xl">
             {name}
         </div>
-        <div className="text-[#FFFFFF] text-[12px] md:text-[13px]">
+        <div className="text-[#FFFFFF] mt-[2px] md:mt-0 text-[12px] md:text-[13px]">
             {designation}
         </div>
-        <div className="text-[#E5D998] text-[11px]">
+        <div className="text-[#E5D998] mt-[1px] md:mt-0 text-[11px]">
             {dept}
         </div>
         </div>
@@ -101,7 +101,7 @@ export default function team(){
     return (
         <main>
           <div className="flex justify-center">
-                <p className={`${montserrat.className} text-center relative mt-[7vh] mb-[5vh] font-medium md:text-6xl text-6xl text-[#FFFFFF]`}>
+                <p className={`${montserrat.className} text-center relative mt-[7vh] mb-[2vh] md:mb-[5vh] font-medium md:text-6xl text-6xl text-[#FFFFFF]`}>
                   MEET THE TEAM
                   </p>
           </div>

@@ -1,8 +1,8 @@
-import React, { ReactNode } from "react";
+"use client";
+import React from "react";
 import { Montserrat, Poppins } from "next/font/google";
 import { Bebas_Neue } from "next/font/google";
-import { Tabs, Tab, Card, CardBody, CardHeader, Textarea, Divider, Button, Link, Chip } from "@nextui-org/react";
-import Image, { StaticImageData } from "next/image";
+import { Tabs, Tab } from "@nextui-org/react";
 
 const poppins = Poppins({
     subsets: ["latin"],
@@ -18,26 +18,6 @@ const montserrat = Montserrat({
   subsets: ["latin"],
   weight: "800",
 })
-
-interface festSecs{
-    name: string;
-    designation: string; 
-    imgSrc: string; 
-  }
-  
-  interface dfs{
-    name: string; 
-    designation: string;
-    imgSrc: string; 
-    dept: ReactNode; 
-  }
-
-  const imageStyle = {
-  width: '100%',
-  height: "268px",
-  margin: 'auto',
-  borderRadius: '24px',
-  }
   
 export default function eventsschedule(){
     return (
@@ -47,6 +27,8 @@ export default function eventsschedule(){
                   EVENTS SCHEDULE
                   </p>
             </div>
+            <Tabs aria-label="Events-Schedule" className={`${bebas_neue.className} flex justify-center`}>
+              <Tab key="day-1" title="Day 1" className="text-3xl p-5 px-2">
             <div className="grid grid-cols-2">
             <div className="ml-[5vh] md:ml-[10vh]">
             <p className={`${montserrat.className} relative font-medium text-2xl text-[#FFFFFF]`}>
@@ -109,7 +91,7 @@ export default function eventsschedule(){
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      12:30-17:00
+      TBD
     </p>
   </div>
   <div className="border-b border-white flex items-center">
@@ -274,7 +256,7 @@ export default function eventsschedule(){
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      10:00-16:00
+      10:00-17:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
@@ -289,12 +271,12 @@ export default function eventsschedule(){
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      ONLINE
+      TBD
     </p>
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      -
+     ONLINE
     </p>
   </div>
   <div className="border-b border-white flex items-center col-span-2">
@@ -304,9 +286,10 @@ export default function eventsschedule(){
   </div>
 </div>
 </div>
+</Tab><Tab key="day-2" title="Day 2" className="text-3xl p-5 px-2">
 
 
-            <div className="mt-20 grid grid-cols-2">
+            <div className="grid grid-cols-2">
             <div className="ml-[5vh] md:ml-[10vh]">
             <p className={`${montserrat.className} relative font-medium text-2xl text-[#FFFFFF]`}>
                 7th April
@@ -323,7 +306,7 @@ export default function eventsschedule(){
     <div className="border-t border-white grid grid-cols-4 grid-rows-16 gap-y-4 relative w-full">
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl`}>
-      11:00-15:00
+      10:00-15:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
@@ -368,7 +351,7 @@ export default function eventsschedule(){
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      10:00-16:00
+      10:00-14:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
@@ -383,7 +366,7 @@ export default function eventsschedule(){
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      16:00-16:00
+      15:00-16:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
@@ -398,7 +381,7 @@ export default function eventsschedule(){
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      11:00-15:00
+      11:00-14:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
@@ -488,7 +471,7 @@ export default function eventsschedule(){
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      11:00-17:00
+      10:00-17:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
@@ -518,7 +501,7 @@ export default function eventsschedule(){
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      10:00-16:00
+      10:00-17:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
@@ -533,12 +516,12 @@ export default function eventsschedule(){
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      ONLINE
+      -
     </p>
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      -
+      ONLINE
     </p>
   </div>
   <div className="border-b border-white flex items-center col-span-2">
@@ -549,6 +532,8 @@ export default function eventsschedule(){
 </div>
 
 </div>
+</Tab>
+</Tabs>
 
 
         </main>
