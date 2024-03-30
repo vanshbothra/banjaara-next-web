@@ -28,19 +28,11 @@ export default function eventsschedule(){
                   </p>
             </div>
             <Tabs aria-label="Events-Schedule" className={`${bebas_neue.className} flex justify-center`}>
-              <Tab key="day-1" title="Day 1" className="text-3xl p-5 px-2">
-            <div className="grid grid-cols-2">
+              <Tab key="day-1" title="Day 1" className="text-3xl p-5 px-2 mr-4 md:mr-2">
             <div className="ml-[5vh] md:ml-[10vh]">
             <p className={`${montserrat.className} relative font-medium text-2xl text-[#FFFFFF]`}>
                 6th April
                 </p>
-                <p className={`${montserrat.className} relative font-medium text-2xl text-[#FFFFFF]`}>
-                SCHEDULE
-                </p>
-                </div>
-                <p className={`${montserrat.className} relative ml-[5vh] font-medium text-2xl md:text-4xl md:text-6xl text-[#FFFFFF]`}>
-                DAY 1
-            </p>
             </div>
     <div className="flex items-center justify-center mt-8 mb-8 px-8">
     <div className="border-t border-white grid grid-cols-4 grid-rows-16 gap-y-4 relative w-full">
@@ -280,28 +272,157 @@ export default function eventsschedule(){
     </p>
   </div>
   <div className="border-b border-white flex items-center col-span-2">
-    <a href="https://unstop.com/competitions/starstruck-banjaara-2024-ashoka-university-sonepat-haryana-923811" className={`${bebas_neue.className} underline relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+    <a href="https://unstop.com/competitions/starstruck-banjaara-2024-ashoka-university-sonepat-haryana-923811"className={`${bebas_neue.className} underline relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
       STARSTRUCK - GRAPHIC DESIGN
+    </a>
+  </div> <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+      11:00-17:00
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+     AC02-208 & 209
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center col-span-2">
+    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+      HAUNTED HOUSE
+    </a>
+  </div> 
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+      11:00-17:00
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+     AC02-008 & 009
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center col-span-2">
+    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+      EXHIBITION
+    </a>
+  </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+      14:00-17:00
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+     AC02-014
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center col-span-2">
+    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+      ASTROMELA
+    </a>
+  </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+      10:00-17:00
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+     AC02-103
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center col-span-2">
+    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+      RELAXATION ROOM
+    </a>
+  </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+      13:00-15:00
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+     AC02-107
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center col-span-2">
+    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+      KASUAL KARAOKE
+    </a>
+  </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+      14:00-15:30
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+     CFE
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center col-span-2">
+    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+      PANEL DISCUSSION
+    </a>
+  </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+      15:00-17:00
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+     AC02-014
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center col-span-2">
+    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+      BUILD YOUR MOVIE
+    </a>
+  </div>  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+      11:00-17:00
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+     ATRIUM
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center col-span-2">
+    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+      JUST DANCE
+    </a>
+  </div>  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+      11:00-14:00
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+     AC02-108
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center col-span-2">
+    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+      MUBI Movie Screening
     </a>
   </div>
 </div>
 </div>
-</Tab><Tab key="day-2" title="Day 2" className="text-3xl p-5 px-2">
+<div className="ml-[2vh] md:ml-[10vh]">
+            <p className={`${montserrat.className} -mt-6 p-4 text-medium relative font-medium md:text-xl text-[#FFFFFF] mb-4`}>
+                Note: Events with no registration links attached to them don't require a registration. 
+                </p>
+              </div>
+</Tab> <Tab key="day-2" title="Day 2" className="text-3xl p-5 px-2">
 
 
-            <div className="grid grid-cols-2">
             <div className="ml-[5vh] md:ml-[10vh]">
             <p className={`${montserrat.className} relative font-medium text-2xl text-[#FFFFFF]`}>
                 7th April
                 </p>
-                <p className={`${montserrat.className} relative font-medium text-2xl text-[#FFFFFF]`}>
-                SCHEDULE
-                </p>
-                </div>
-                <p className={`${montserrat.className} relative ml-[5vh] font-medium text-2xl md:text-4xl md:text-6xl text-[#FFFFFF]`}>
-                DAY 2
-            </p>
-            </div>
+              </div>
 <div className="flex items-center justify-center mt-8 mb-8 px-8">
     <div className="border-t border-white grid grid-cols-4 grid-rows-16 gap-y-4 relative w-full">
   <div className="border-b border-white flex items-center">
@@ -529,9 +650,141 @@ export default function eventsschedule(){
       SAFARNAMA - SHORT FILM MAKING
     </a>
   </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+      11:00-17:00
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+     AC02-008 & 009
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center col-span-2">
+    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+      EXHIBITION
+    </a>
+  </div> <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+      15:00-17:00
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+     AC02-011
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center col-span-2">
+    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+      CALLIGRAPHY WORKSHOP
+    </a>
+  </div>  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+      12:00-14:00
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+     AC02-014
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center col-span-2">
+    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+      STAR SIGN SPEED DATING
+    </a>
+  </div>  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+      ALL DAY
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+     AC02-103
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center col-span-2">
+    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+      RELAXATION ROOM
+    </a>
+  </div>  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+      12:00-13:00
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+     AC02-003
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center col-span-2">
+    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+      DANCE WORKSHOP
+    </a>
+  </div>  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+      11:00-13:00
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+     AC02-011
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center col-span-2">
+    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+      UNWIND SESSION
+    </a>
+  </div>  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+      11:00-17:00
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+     ATRIUM
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center col-span-2">
+    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+      JUST DANCE
+    </a>
+  </div> <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+      11:00-17:00
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+     AC02-003
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center col-span-2">
+    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+      GAME ROOM
+    </a>
+  </div> <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+      12:00-14:00
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+     AC02-107
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center col-span-2">
+    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+      IMPROV WORKSHOP
+    </a>
+  </div>
 </div>
 
 </div>
+<div className="ml-[2vh] md:ml-[10vh]">
+            <p className={`${montserrat.className} -mt-6 p-4 text-medium relative font-medium md:text-xl text-[#FFFFFF] mb-4`}>
+                Note: Events with no registration links attached to them don't require a registration. 
+                </p>
+              </div>
 </Tab>
 </Tabs>
 

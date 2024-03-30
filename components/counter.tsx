@@ -16,7 +16,7 @@ const montserrat = Montserrat({
 
 const CountdownCard: React.FC<CountdownProps> = ({ label, value }) => {
   return (
-    <div className="inline-block h-20 md:h-32 w-20 md:w-36 bg-gray rounded-md text-white text-center">
+    <div className="inline-block h-20 md:h-32 w-20 md:w-36 bg-gray rounded-md text-white text-center -ml-2 md:ml-0">
       <div className={`${montserrat.className} text-white-500 text-4xl md:text-8xl mt-1 md:mt-4`} suppressHydrationWarning={true}>{value}</div>
       <div className={`md:mt-1 text-sm sm:text-md font-bold mb-2`}>{label}</div>
     </div>
