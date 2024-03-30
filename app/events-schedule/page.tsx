@@ -412,7 +412,7 @@ export default function eventsschedule(){
 </div>
 <div className="ml-[2vh] md:ml-[10vh]">
             <p className={`${montserrat.className} -mt-6 p-4 text-medium relative font-medium md:text-xl text-[#FFFFFF] mb-4`}>
-                Note: Events with no registration links attached to them don't require a registration. 
+                Note: Events with no registration links attached to them don&apos;t require a registration. 
                 </p>
               </div>
 </Tab> <Tab key="day-2" title="Day 2" className="text-3xl p-5 px-2">
@@ -782,7 +782,7 @@ export default function eventsschedule(){
 </div>
 <div className="ml-[2vh] md:ml-[10vh]">
             <p className={`${montserrat.className} -mt-6 p-4 text-medium relative font-medium md:text-xl text-[#FFFFFF] mb-4`}>
-                Note: Events with no registration links attached to them don't require a registration. 
+                Note: Events with no registration links attached to them don&apos;t require a registration. 
                 </p>
               </div>
 </Tab>
