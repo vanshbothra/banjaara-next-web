@@ -286,9 +286,9 @@ export default function eventsschedule(){
     </p>
   </div>
   <div className="border-b border-white flex items-center col-span-2">
-    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+    <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
       HAUNTED HOUSE
-    </a>
+    </p>
   </div> 
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
@@ -301,9 +301,9 @@ export default function eventsschedule(){
     </p>
   </div>
   <div className="border-b border-white flex items-center col-span-2">
-    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+    <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
       EXHIBITION
-    </a>
+    </p>
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
@@ -316,9 +316,9 @@ export default function eventsschedule(){
     </p>
   </div>
   <div className="border-b border-white flex items-center col-span-2">
-    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+    <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
       ASTROMELA
-    </a>
+    </p>
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
@@ -331,9 +331,9 @@ export default function eventsschedule(){
     </p>
   </div>
   <div className="border-b border-white flex items-center col-span-2">
-    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+    <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
       RELAXATION ROOM
-    </a>
+    </p>
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
@@ -346,9 +346,9 @@ export default function eventsschedule(){
     </p>
   </div>
   <div className="border-b border-white flex items-center col-span-2">
-    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+    <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
       KASUAL KARAOKE
-    </a>
+    </p>
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
@@ -361,9 +361,9 @@ export default function eventsschedule(){
     </p>
   </div>
   <div className="border-b border-white flex items-center col-span-2">
-    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+    <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
       PANEL DISCUSSION
-    </a>
+    </p>
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
@@ -376,9 +376,9 @@ export default function eventsschedule(){
     </p>
   </div>
   <div className="border-b border-white flex items-center col-span-2">
-    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+    <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
       BUILD YOUR MOVIE
-    </a>
+    </p>
   </div>  <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
       11:00-17:00
@@ -390,9 +390,9 @@ export default function eventsschedule(){
     </p>
   </div>
   <div className="border-b border-white flex items-center col-span-2">
-    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+    <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
       JUST DANCE
-    </a>
+    </p>
   </div>  <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
       11:00-14:00
@@ -404,9 +404,9 @@ export default function eventsschedule(){
     </p>
   </div>
   <div className="border-b border-white flex items-center col-span-2">
-    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+    <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
       MUBI Movie Screening
-    </a>
+    </p>
   </div>
 </div>
 </div>
@@ -661,9 +661,9 @@ export default function eventsschedule(){
     </p>
   </div>
   <div className="border-b border-white flex items-center col-span-2">
-    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+    <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
       EXHIBITION
-    </a>
+    </p>
   </div> <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
       15:00-17:00
@@ -675,9 +675,9 @@ export default function eventsschedule(){
     </p>
   </div>
   <div className="border-b border-white flex items-center col-span-2">
-    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+    <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
       CALLIGRAPHY WORKSHOP
-    </a>
+    </p>
   </div>  <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
       12:00-14:00
@@ -689,12 +689,12 @@ export default function eventsschedule(){
     </p>
   </div>
   <div className="border-b border-white flex items-center col-span-2">
-    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+    <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
       STAR SIGN SPEED DATING
-    </a>
+    </p>
   </div>  <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      ALL DAY
+      10:00-17:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
@@ -703,9 +703,9 @@ export default function eventsschedule(){
     </p>
   </div>
   <div className="border-b border-white flex items-center col-span-2">
-    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+    <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
       RELAXATION ROOM
-    </a>
+    </p>
   </div>  <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
       12:00-13:00
@@ -717,9 +717,9 @@ export default function eventsschedule(){
     </p>
   </div>
   <div className="border-b border-white flex items-center col-span-2">
-    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+    <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
       DANCE WORKSHOP
-    </a>
+    </p>
   </div>  <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
       11:00-13:00
@@ -731,9 +731,9 @@ export default function eventsschedule(){
     </p>
   </div>
   <div className="border-b border-white flex items-center col-span-2">
-    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+    <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
       UNWIND SESSION
-    </a>
+    </p>
   </div>  <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
       11:00-17:00
@@ -745,9 +745,9 @@ export default function eventsschedule(){
     </p>
   </div>
   <div className="border-b border-white flex items-center col-span-2">
-    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+    <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
       JUST DANCE
-    </a>
+    </p>
   </div> <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
       11:00-17:00
@@ -759,9 +759,9 @@ export default function eventsschedule(){
     </p>
   </div>
   <div className="border-b border-white flex items-center col-span-2">
-    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+    <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
       GAME ROOM
-    </a>
+    </p>
   </div> <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
       12:00-14:00
@@ -773,9 +773,9 @@ export default function eventsschedule(){
     </p>
   </div>
   <div className="border-b border-white flex items-center col-span-2">
-    <a href=""className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+    <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
       IMPROV WORKSHOP
-    </a>
+    </p>
   </div>
 </div>
 
