@@ -15,7 +15,7 @@ const navigation = [
   { title: 'Home', link: '/' },
   { title: 'Competitions', link: '/competitions' },
   { title: 'Team', link: '/team' },
-  { title: 'Events Schedule', link: '/events-schedule'}
+  { title: 'Schedule', link: '/events-schedule'}
  ];
 
 const NavbarComponent = () => {

@@ -83,7 +83,7 @@ export default function eventsschedule(){
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      TBD
+      11:00-17:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
@@ -94,21 +94,6 @@ export default function eventsschedule(){
   <div className=" border-b border-white flex items-center col-span-2">
     <a href="https://unstop.com/events/samadhan-banjaara-2024-ashoka-university-sonepat-haryana-923812" className={`${bebas_neue.className} underline relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
       SAMADHAN - CASE COMPETITION
-    </a>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      17:00-19:00
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      TBD
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center col-span-2">
-    <a href="https://unstop.com/events/dance-off-banjaara-2024-ashoka-university-sonepat-haryana-923767" className={`${bebas_neue.className} underline relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
-      DANCE-OFF
     </a>
   </div>
   <div className="border-b border-white flex items-center">
@@ -155,6 +140,20 @@ export default function eventsschedule(){
     <a href="https://unstop.com/competitions/banjaara-stock-exchange-banjaara-2024-ashoka-university-sonepat-haryana-924810" className={`${bebas_neue.className} underline relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
       BANJAARA STOCK EXCHANGE
     </a>
+  </div> <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+      15:00-17:00
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+    HAND STATUE LAWNS
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center col-span-2">
+    <a href="https://nude-banjara.vercel.app/" className={`${bebas_neue.className} underline relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+      STREETSTYLE FACE OFF
+    </a>
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
@@ -184,36 +183,6 @@ export default function eventsschedule(){
   <div className="border-b border-white flex items-center col-span-2">
     <a href="https://unstop.com/events/symphony-of-suspicion-banjaara-2024-ashoka-university-sonepat-haryana-923802" className={`${bebas_neue.className} underline relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
       SYMPHONY OF SUSPICION
-    </a>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      14:00-17:00
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      AC02-013
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center col-span-2">
-    <a href="https://unstop.com/events/shipwreck-banjaara-2024-ashoka-university-sonepat-haryana-923801" className={`${bebas_neue.className} underline relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
-      SHIPWRECK
-    </a>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      11:00-13:00
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      AC02-107
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center col-span-2">
-    <a href="/https://unstop.com/events/midsummer-muse-banjaara-2024-ashoka-university-sonepat-haryana-923799" className={`${bebas_neue.className} underline relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
-      MIDSUMMER MUSE - SHAKERSPEAREAN DECLAMATION
     </a>
   </div>
   <div className="border-b border-white flex items-center">
@@ -253,7 +222,7 @@ export default function eventsschedule(){
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      AC02-001, 002, 003, 004, 005, 011, 012, 013, 101, 102, 104, 112, 113, 114, 206, & 207
+      AC02-001, 002, 005, 011, 012, 101, 102, 104, 107, 112, 113, 114
     </p>
   </div>
   <div className="border-b border-white flex items-center col-span-2">
@@ -263,7 +232,7 @@ export default function eventsschedule(){
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      TBD
+      10:00-17:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
@@ -442,6 +411,21 @@ export default function eventsschedule(){
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+      -
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+      ONLINE
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center col-span-2">
+    <a href="https://unstop.com/events/safarnama-banjaara-2024-ashoka-university-sonepat-haryana-923796" className={`${bebas_neue.className} underline relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+      SAFARNAMA - SHORT FILM MAKING
+    </a>
+  </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
       15:00-17:00
     </p>
   </div>
@@ -472,7 +456,7 @@ export default function eventsschedule(){
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      10:00-14:00
+      10:00-16:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
@@ -487,7 +471,7 @@ export default function eventsschedule(){
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      15:00-16:00
+      16:00-17:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
@@ -502,7 +486,7 @@ export default function eventsschedule(){
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      11:00-14:00
+      11:00-15:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
@@ -514,6 +498,21 @@ export default function eventsschedule(){
     <a href="https://unstop.com/competitions/barrier-barrage-banjaara-2024-ashoka-university-sonepat-haryana-924402" className={`${bebas_neue.className} underline relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
       BARRIER BARRAGE - CRISIS COMPETITION
     </a>
+  </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+      10:00-11:00
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+      Open Amphi Theatre
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center col-span-2">
+    <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+      SHORT FILM SCREENING - KHAYAL
+    </p>
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
@@ -592,7 +591,7 @@ export default function eventsschedule(){
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      10:00-17:00
+      11:00-17:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
@@ -607,47 +606,17 @@ export default function eventsschedule(){
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      13:00-17:00
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      AC02-107
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center col-span-2">
-    <a href="https://unstop.com/events/standup-standoff-banjaara-2024-ashoka-university-sonepat-haryana-923785" className={`${bebas_neue.className} underline relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
-      STANDUP STANDOFF
-    </a>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
       10:00-17:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-    AC02-001, 002, 003, 004, 005, 011, 012, 013, 101, 102, 104, 112, 113, 114, 206, & 207
+    AC02-001, 002, 004, 005, 013 
     </p>
   </div>
   <div className=" border-b border-white flex items-center col-span-2">
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSddRh6PRsXPJqo9FkXvAXi02zbIakaAeBipLAeMj3eb8wnlfQ/viewform" className={`${bebas_neue.className} underline relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
       ASHOKA PARLIAMENTARY DEBATE
-    </a>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      -
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      ONLINE
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center col-span-2">
-    <a href="https://unstop.com/events/safarnama-banjaara-2024-ashoka-university-sonepat-haryana-923796" className={`${bebas_neue.className} underline relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
-      SAFARNAMA - SHORT FILM MAKING
     </a>
   </div>
   <div className="border-b border-white flex items-center">
