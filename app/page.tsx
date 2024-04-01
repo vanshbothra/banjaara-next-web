@@ -6,11 +6,14 @@ import Countdown from "@/components/counter";
 import { Montserrat } from 'next/font/google';
 import Link from "next/link";
 import { Sponsors } from "@/components/sponsors";
+import HomeModal from "@/components/home-modal";
 
 const montserrat = Montserrat({
   subsets: ["latin"],
   weight: "800",
 })
+
+export const dynamic = 'force-dynamic'
 
 export default function Home() {
   return (
@@ -21,7 +24,7 @@ export default function Home() {
           <TextGenerateEffectDemo />
         </div>
       </div>
-      
+      <HomeModal />
       <Card className="sm:p-1 max-sm:mb-8 sm:m-12 border-none bg-transparent shadow-none">
         <Countdown />
       </Card>
