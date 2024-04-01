@@ -60,7 +60,7 @@ const Competitions = () => {
         aria-label="Dynamic tabs"
         items={content}
         size="sm"
-        className="flex flex-row">
+        className="flex justify-center grid grid-flow-row">
         {(item) => (
           <Tab
             key={item.id}
