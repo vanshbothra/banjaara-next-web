@@ -83,7 +83,7 @@ export default function eventsschedule(){
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      11:00-17:00
+      12:00-18:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
@@ -396,7 +396,7 @@ export default function eventsschedule(){
     <div className="border-t border-white grid grid-cols-4 grid-rows-16 gap-y-4 relative w-full">
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl`}>
-      10:00-15:00
+      12:00-17:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
@@ -411,22 +411,7 @@ export default function eventsschedule(){
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      -
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      ONLINE
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center col-span-2">
-    <a href="https://unstop.com/events/safarnama-banjaara-2024-ashoka-university-sonepat-haryana-923796" className={`${bebas_neue.className} underline relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
-      SAFARNAMA - SHORT FILM MAKING
-    </a>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      15:00-17:00
+      10:00-12:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
