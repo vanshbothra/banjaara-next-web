@@ -329,7 +329,7 @@ export default function eventsschedule(){
     </p>
   </div>
   <div className="mt-4 border-b border-white flex items-center col-span-2">
-    <a href="https://unstop.com/competitions/thairaav-banjaara-2024-ashoka-university-sonepat-haryana-923733" className={`${bebas_neue.className} underline relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+    <a href="https://forms.gle/bAXZLnRsRPN3Vkkw7" className={`${bebas_neue.className} underline relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
       SPACE TURTLE
     </a>
   </div>
