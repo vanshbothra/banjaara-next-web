@@ -11,13 +11,6 @@
                 "description": "Feel the high energy, get swept away by the captivating rhythm, and move to the groovy beats at our premier western dance competition!"
             },
             {
-                "link": "https://unstop.com/competitions/thairaav-banjaara-2024-ashoka-university-sonepat-haryana-923733",
-                "image": "/events/indianFolk.jpeg",
-                "eventName": "THAIRAAV",
-                "date": "07/04/2024",
-                "description": "Perform any Indian classical or folk style with your team! Bollywood, semi-classical and fusion styles are not allowed."
-            },
-            {
                 "link": "https://unstop.com/events/dance-off-banjaara-2024-ashoka-university-sonepat-haryana-923767",
                 "image": "/events/danceOff.jpeg",
                 "eventName": "DANCE OFF",
@@ -37,13 +30,6 @@
                 "eventName": "CONCORDIA",
                 "date": "07/04/2024",
                 "description": "From intricate vocal arrangements to beautiful melodies, be captivated by the sheer talent and creativity in this vocal-only showdown."
-            },
-            {
-                "link": "https://unstop.com/events/jukebox-banjaara-2024-ashoka-university-sonepat-haryana-924353",
-                "image": "/events/drums.jpeg",
-                "eventName": "JUKEBOX",
-                "date": "06/04/2024",
-                "description": "From breathtaking solos to mesmerizing duets and trios, witness the musical talent of the instrumentalists as they light up the stage."
             },
             {
                 "link": "https://unstop.com/competitions/nautanki-banjaara-2024-ashoka-university-sonepat-haryana-924385",
@@ -127,13 +113,6 @@
                 "description": "Unleash your entrepreneurial spirit as you dive into the Shark Tank, and pitch your unique ideas to a panel of seasoned investors, showcasing your creativity and passion in this ultimate battle of innovation."
             },
             {
-                "link": "https://unstop.com/events/green-innovators-challenge-banjaara-2024-ashoka-university-sonepat-haryana-923803",
-                "image": "/events/greenInnovators.webp",
-                "eventName": "GREEN INNOVATORS' CHALLENGE",
-                "date": "07/04/2024",
-                "description": "Here is your chance to save the world, one solution at a time. Pitch real-life solutions to satisfy your saviours complex and rescue the planet!"
-            },
-            {
                 "link": "https://unstop.com/quiz/in-quiz-itive-banjaara-2024-ashoka-university-sonepat-haryana-923804",
                 "image": "/events/inquizitive.jpg",
                 "eventName": "IN-QUIZ-ITIVE",
@@ -174,20 +153,6 @@
                 "eventName": "FIFA",
                 "date": "07/04/2024",
                 "description": "Ofcourse you know what this is!"
-            },
-            {
-                "link": "https://unstop.com/events/valorant-banjaara-2024-ashoka-university-sonepat-haryana-923807",
-                "image": "/events/valorant.jpg",
-                "eventName": "VALORANT",
-                "date": "06/04/2024",
-                "description": "Whether you're a top fragging duelist or a site holding controller, prove that you and your friends are the perfect squad at Banjaara’s premiere Valorant event."
-            },
-            {
-                "link": "https://unstop.com/competitions/banjaara-stock-exchange-banjaara-2024-ashoka-university-sonepat-haryana-924810",
-                "image": "/events/stockExchange.jpg",
-                "eventName": "BANJAARA STOCK EXCHANGE",
-                "date": "07/04/2024",
-                "description": "Get used to being The Wolf of Wall Street because this competition is about going big or going home. Mint millions or lose millions, it all comes down to one choice. "
             }
         ]
     }
