@@ -53,7 +53,7 @@ export default function eventsschedule(){
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      11:00-17:00
+      11:00-18:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
@@ -98,21 +98,6 @@ export default function eventsschedule(){
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      10:00-13:00
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      Open Amphi Theatre
-    </p>
-  </div>
-  <div className=" border-b border-white flex items-center col-span-2">
-    <a href="https://unstop.com/events/jukebox-banjaara-2024-ashoka-university-sonepat-haryana-924353" className={`${bebas_neue.className} underline relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
-      JUKEBOX - INSTRUMENTAL
-    </a>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
       14:00-17:00
     </p>
   </div>
@@ -125,24 +110,9 @@ export default function eventsschedule(){
     <a href="https://unstop.com/events/battle-of-the-bands-banjaara-2024-ashoka-university-sonepat-haryana-924299" className={`${bebas_neue.className} underline relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
       BATTLE OF THE BANDS
     </a>
-  </div>
-  <div className="border-b border-white flex items-center">
+  </div><div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      10:00-17:00
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-    AC02-007 &#40;Takshila&#41;
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center col-span-2">
-    <a href="https://unstop.com/competitions/banjaara-stock-exchange-banjaara-2024-ashoka-university-sonepat-haryana-924810" className={`${bebas_neue.className} underline relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
-      BANJAARA STOCK EXCHANGE
-    </a>
-  </div> <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      15:00-17:00
+      17:00-19:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
@@ -187,42 +157,12 @@ export default function eventsschedule(){
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      14:00-17:00
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      AC02-108
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center col-span-2">
-    <a href="https://unstop.com/competitions/space-turtle-banjaara-2024-ashoka-university-sonepat-haryana-923810" className={`${bebas_neue.className} underline relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
-      SPACE TURTLE - GRAPHIC CODING
-    </a>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      11:00-17:00
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      Admin Block, Computer Lab
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center col-span-2">
-    <a href="https://unstop.com/events/valorant-banjaara-2024-ashoka-university-sonepat-haryana-923807" className={`${bebas_neue.className} underline relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
-      VALORANT
-    </a>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
       10:00-17:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      AC02-001, 002, 005, 011, 012, 101, 102, 104, 107, 112, 113, 114
+      AC02-001, 002, 005, 011, 012, 101, 102, 104, 108, 112, 113, 114
     </p>
   </div>
   <div className="border-b border-white flex items-center col-span-2">
@@ -244,24 +184,10 @@ export default function eventsschedule(){
     <a href="https://unstop.com/competitions/starstruck-banjaara-2024-ashoka-university-sonepat-haryana-923811"className={`${bebas_neue.className} underline relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
       STARSTRUCK - GRAPHIC DESIGN
     </a>
-  </div> <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      11:00-17:00
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-     AC02-208 & 209
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center col-span-2">
-    <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
-      HAUNTED HOUSE
-    </p>
   </div> 
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      11:00-17:00
+      10:00-17:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
@@ -273,6 +199,20 @@ export default function eventsschedule(){
     <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
       EXHIBITION
     </p>
+  </div><div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+      11:00-17:00
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+     AC02-003
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center col-span-2">
+    <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+      GAME ROOM
+    </p>
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
@@ -281,7 +221,7 @@ export default function eventsschedule(){
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-     AC02-014
+     AC02 1st floor balcony
     </p>
   </div>
   <div className="border-b border-white flex items-center col-span-2">
@@ -301,54 +241,9 @@ export default function eventsschedule(){
   </div>
   <div className="border-b border-white flex items-center col-span-2">
     <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
-      RELAXATION ROOM
+      INFORMAL MIXER
     </p>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      13:00-15:00
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-     AC02-107
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center col-span-2">
-    <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
-      KASUAL KARAOKE
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      14:00-15:30
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-     CFE
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center col-span-2">
-    <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
-      PANEL DISCUSSION
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      15:00-17:00
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-     AC02-014
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center col-span-2">
-    <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
-      BUILD YOUR MOVIE
-    </p>
-  </div>  <div className="border-b border-white flex items-center">
+  </div><div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
       11:00-17:00
     </p>
@@ -362,6 +257,21 @@ export default function eventsschedule(){
     <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
       JUST DANCE
     </p>
+  </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+      11:00-13:00
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+     AC02-014
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center col-span-2">
+    <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+      UNWIND SESSION
+    </p>
   </div>  <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
       11:00-14:00
@@ -369,12 +279,26 @@ export default function eventsschedule(){
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-     AC02-108
+     AC02-007
     </p>
   </div>
   <div className="border-b border-white flex items-center col-span-2">
     <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
       MUBI Movie Screening
+    </p>
+  </div><div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+      14:00-15:00
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+     AC02-013
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center col-span-2">
+    <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+      IMPROV WORKSHOP
     </p>
   </div>
 </div>
@@ -396,22 +320,22 @@ export default function eventsschedule(){
     <div className="border-t border-white grid grid-cols-4 grid-rows-16 gap-y-4 relative w-full">
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl`}>
-      12:00-17:00
+      14:00-16:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl`}>
-      Reddy&apos;s Auditorium
+      AC02-011
     </p>
   </div>
   <div className="mt-4 border-b border-white flex items-center col-span-2">
     <a href="https://unstop.com/competitions/thairaav-banjaara-2024-ashoka-university-sonepat-haryana-923733" className={`${bebas_neue.className} underline relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
-      THAIRAAV - INDIAN GROUP DANCE
+      SPACE TURTLE
     </a>
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      10:00-12:00
+      13:00-16:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
@@ -426,7 +350,7 @@ export default function eventsschedule(){
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      11:00-17:00
+      12:00-18:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
@@ -441,7 +365,7 @@ export default function eventsschedule(){
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      10:00-16:00
+      11:00-17:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
@@ -456,7 +380,7 @@ export default function eventsschedule(){
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      16:00-17:00
+      17:00-18:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
@@ -471,7 +395,7 @@ export default function eventsschedule(){
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      11:00-15:00
+      12:00-16:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
@@ -486,42 +410,12 @@ export default function eventsschedule(){
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      10:00-11:00
+      15:00-18:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      Open Amphi Theatre
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center col-span-2">
-    <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
-      SHORT FILM SCREENING - KHAYAL
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      12:00-14:00
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      Open Amphi Theatre
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center col-span-2">
-    <a href="https://unstop.com/events/sukhanwar-banjaara-2024-ashoka-university-sonepat-haryana-924362" className={`${bebas_neue.className} underline relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
-      SUKHANWAR - HINDUSTANI POETRY
-    </a>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      14:00-17:00
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      Open Amphi Theatre
+      AC02-210
     </p>
   </div>
   <div className="border-b border-white flex items-center col-span-2">
@@ -531,7 +425,7 @@ export default function eventsschedule(){
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      11:00-17:00
+      12:00-18:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
@@ -546,7 +440,7 @@ export default function eventsschedule(){
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      12:00-15:00
+      13:00-16:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
@@ -557,36 +451,6 @@ export default function eventsschedule(){
   <div className="border-b border-white flex items-center col-span-2">
     <a href="https://unstop.com/quiz/in-quiz-itive-banjaara-2024-ashoka-university-sonepat-haryana-923804" className={`${bebas_neue.className} underline relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
       IN-QUIZ-ITIVE - QUIZ COMPETITION
-    </a>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      10:00-17:00
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-    AC02-007 &#40;Takshila&#41;
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center col-span-2">
-    <a href="https://unstop.com/competitions/banjaara-stock-exchange-banjaara-2024-ashoka-university-sonepat-haryana-924810" className={`${bebas_neue.className} underline relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
-      BANJAARA STOCK EXCHANGE
-    </a>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      11:00-17:00
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      AC02-208 & 209
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center col-span-2">
-    <a href="https://unstop.com/events/green-innovators-challenge-banjaara-2024-ashoka-university-sonepat-haryana-923803" className={`${bebas_neue.className} underline relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
-      GREEN INNOVATOR&apos;S CHALLENGE
     </a>
   </div>
   <div className="border-b border-white flex items-center">
@@ -618,51 +482,23 @@ export default function eventsschedule(){
     <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
       EXHIBITION
     </p>
-  </div> <div className="border-b border-white flex items-center">
+  </div>   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      15:00-17:00
+      15:00-18:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-     AC02-011
+     AC02-107
     </p>
   </div>
   <div className="border-b border-white flex items-center col-span-2">
     <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
-      CALLIGRAPHY WORKSHOP
+      KASUAL KARAOKE
     </p>
-  </div>  <div className="border-b border-white flex items-center">
+  </div><div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      12:00-14:00
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-     AC02-014
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center col-span-2">
-    <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
-      STAR SIGN SPEED DATING
-    </p>
-  </div>  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      10:00-17:00
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-     AC02-103
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center col-span-2">
-    <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
-      RELAXATION ROOM
-    </p>
-  </div>  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      12:00-13:00
+      14:00-18:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
@@ -672,25 +508,53 @@ export default function eventsschedule(){
   </div>
   <div className="border-b border-white flex items-center col-span-2">
     <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
-      DANCE WORKSHOP
+      HER CAMPUS MURDER MYSTERY
     </p>
   </div>  <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      11:00-13:00
+      11:00-18:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-     AC02-011
+     AC02-103
     </p>
   </div>
   <div className="border-b border-white flex items-center col-span-2">
     <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
-      UNWIND SESSION
+      INFORMALS MIXER
     </p>
-  </div>  <div className="border-b border-white flex items-center">
+  </div>   <div className="border-b border-white flex items-center">
     <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      11:00-17:00
+      16:00-18:00
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+     AC02-014
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center col-span-2">
+    <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+      BUILD YOUR MOVIE
+    </p>
+  </div>   <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+      12:00-13:00
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+     AC02-014
+    </p>
+  </div>
+  <div className="border-b border-white flex items-center col-span-2">
+    <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
+      DANCE WORKSHOP
+    </p>
+  </div>   <div className="border-b border-white flex items-center">
+    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
+      12:00-18:00
     </p>
   </div>
   <div className="border-b border-white flex items-center">
@@ -701,34 +565,6 @@ export default function eventsschedule(){
   <div className="border-b border-white flex items-center col-span-2">
     <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
       JUST DANCE
-    </p>
-  </div> <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      11:00-17:00
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-     AC02-003
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center col-span-2">
-    <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
-      GAME ROOM
-    </p>
-  </div> <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-      12:00-14:00
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center">
-    <p className={`${bebas_neue.className} relative md:ml-[5vh] font-medium text-[#FFFFFF] text-2xl -mt-2`}>
-     AC02-107
-    </p>
-  </div>
-  <div className="border-b border-white flex items-center col-span-2">
-    <p className={`${bebas_neue.className} relative ml-[5vh] font-medium text-2xl md:text-4xl text-[#FFFFFF] mb-4`}>
-      IMPROV WORKSHOP
     </p>
   </div>
 </div>
